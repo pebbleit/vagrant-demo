@@ -3,7 +3,7 @@ vagrant-demo
 
 This is an example LAMP server configured with Vagrant. The machine is configured using Puppet, which means that the configuration is documented, and repeatable in both development and production environments. Pre-built modules are available on the [Puppet Forge](http://forge.puppetlabs.com/) which can be placed in ``VagrantConf/modules`` if you need more Puppet functionality
 
-The username and password are both ``vagrant```.
+The username and password are both ``vagrant``.
 
 ## Usage
 
