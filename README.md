@@ -13,6 +13,8 @@ The username and password are both ``vagrant``.
 
 ``vagrant destroy`` - Delete the VM.
 
-``vagrant reload`` - Reboot the VM
+``vagrant reload`` - Reboot the VM. Configuration will be applied.
+
+``vagrant provision`` - Apply configuration without rebooting.
 
 ``vagrant ssh`` - SSH into the VM.
